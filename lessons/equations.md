@@ -8,4 +8,5 @@ Thus, an equation states that what is on the left is equal to what is on the rig
 
 Example:
 ![Equation example](https://render.githubusercontent.com/render/math?math=x%2B2=6)
+
 It states that something + 2 is equal to 6.
