@@ -1,7 +1,7 @@
 # Equations - Linear Equations
 
 There are tons of equations and one of them is the **linear equation**.
-A linear equation is an equation of the type ![Linear Equation](https://render.githubusercontent.com/render/math?math=y=ax+b) where:
+A linear equation is an equation of the type ![Linear Equation](https://render.githubusercontent.com/render/math?math=y=ax%2Bb&mode=inline) where:
 
 - a and b are numbers;
 - a cannot be zero;
