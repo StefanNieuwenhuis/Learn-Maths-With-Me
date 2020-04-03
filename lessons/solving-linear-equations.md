@@ -6,4 +6,4 @@
 4. Solve the remaining two-step equation (add/subtract first, multiply/divide second).
 5. Check the answer by plugging it back in for to find a true statement.
 
-> **Like Terms**: Terms where the variables match exactly (exponents included).
+> \* <small>**Like Terms**: Terms where the variables match exactly (exponents included).</small>
